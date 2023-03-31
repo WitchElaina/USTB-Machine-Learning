@@ -1,4 +1,4 @@
-# USTB-Machine—Learning-Lab
+# USTB-Machine-Learning-Lab
 
 北科物联网专业机器学习实验
 
